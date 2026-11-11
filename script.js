@@ -61,7 +61,7 @@ function playRound(humanChoice,computerChoice){
                 alert("You Win! Rock beats Scissors!")
                 break
         }
-
+        break
         // END OF HUMAN CHOICE FOR ROCK
 
 
@@ -83,7 +83,7 @@ function playRound(humanChoice,computerChoice){
                 alert("You Lose! Scissors beat Paper!")
                 break
         }
-
+        break
         // END OF HUMAN CHOICE FOR PAPER
 
 
@@ -105,7 +105,7 @@ function playRound(humanChoice,computerChoice){
                 alert("It's a Draw! Scissors equal Scissors!")
                 break
         }
-
+        break
         // END OF HUMAN CHOICE FOR SCISSORS
     }
 
